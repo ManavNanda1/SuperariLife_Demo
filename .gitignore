@@ -1,0 +1,21 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/SuperariLife.Common/bin/Debug/net7.0
+/SuperariLife.Common/obj/Debug/net7.0
+/SuperariLife.Common/obj
+/SuperariLife.Data/bin/Debug/net7.0
+/SuperariLife.Data/obj
+/SuperariLife.Model/bin/Debug/net7.0
+/SuperariLife.Model/obj
+/SuperariLife.Service/bin/Debug/net7.0
+/SuperariLife.Service/obj
+/SuperariLife_AdminPortalAPI/bin/Debug/net7.0
+/SuperariLife_AdminPortalAPI/obj
+/SuperariLife_AdminPortalAPI/bin/Release/net7.0
+/SuperariLife.Service/bin/Release/net7.0
+/SuperariLife.Model/bin/Release/net7.0
+/SuperariLife.Data/bin/Release/net7.0
+/SuperariLife.Common/bin/Release/net7.0
