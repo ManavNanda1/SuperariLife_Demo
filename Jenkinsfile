@@ -6,7 +6,7 @@ pipeline {
  stages {  
   stage('Checkout') {  
    steps {
-       git credentialsId: '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', url: 'https://github.com/ManavNanda1/SuperariLife_Demo.git', branch: 'main'
+       git credentialsId: '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', url: 'https://github.com/ManavNanda1/SuperariLife_Demo.git', branch: 'main'
    }  
   }
   stage('Build') {  
